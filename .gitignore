@@ -1,0 +1,31 @@
+# Flutter / Dart ignore patterns
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android specific
+android/**/gradle-wrapper.jar
+android/.gradle
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+
+# iOS specific
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+
+# IDE / System
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
