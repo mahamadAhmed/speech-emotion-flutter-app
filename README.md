@@ -8,7 +8,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2.svg?logo=dart&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Storage%20%7C%20RTDB-FFCA28.svg?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![FFmpeg](https://img.shields.io/badge/Audio-FFmpeg%20%7C%20Waveforms-007808.svg?logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
-[![Companion Model](https://img.shields.io/badge/ML%20Engine-1D%20CNN%20(%3E90%25%20Accuracy)-brightgreen.svg)](https://github.com/mahamadAhmed/speech-emotion-recognition)
+[![Companion Model](https://img.shields.io/badge/ML%20Engine-1D%20CNN%20(1D%20CNN)-brightgreen.svg)](https://github.com/mahamadAhmed/speech-emotion-recognition)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
